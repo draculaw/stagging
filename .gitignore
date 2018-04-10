@@ -1,3 +1,6 @@
+# Compiler gen files:
+*.o
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
